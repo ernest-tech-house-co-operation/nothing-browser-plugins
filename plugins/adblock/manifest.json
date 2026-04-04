@@ -1,0 +1,12 @@
+
+{
+  "id": "adblock",
+  "name": "Ad Blocker",
+  "version": "1.0.0",
+  "description": "Blocks ads, trackers, and analytics scripts at the DOM and network level. Works on most sites.",
+  "author": "ernest-tech-house-co-operation",
+  "how_to_use": "Install and restart the browser. No configuration needed. It runs automatically on every page.",
+  "requires_restart": true,
+  "permissions": ["dom_inject", "network_intercept"],
+  "enabled": true
+}
